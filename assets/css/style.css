@@ -172,7 +172,7 @@ p{
 /* Contact Section */
 #contact{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     background-color: #000000dc;
 }
 #contact h1{
