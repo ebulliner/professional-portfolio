@@ -212,3 +212,30 @@ p{
     color: white;
     cursor: pointer;
 }
+@media screen and (max-width: 1728px) {
+    *{
+        font-family: 'Poppins', sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    html{
+        scroll-behavior: smooth;
+    }
+    p{
+        font-size: 30;
+    }
+}
+
+@media screen and (max-width: 1368px) {
+    *{
+        font-family: 'Poppins', sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    html{
+        scroll-behavior: smooth;
+    }
+    p{
+        font-size: 30;
+    }
+}
